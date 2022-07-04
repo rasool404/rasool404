@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi there, I am Rasul Halimov 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">Hi there, I am Rasul Halimov 👨‍💻
 
 I am a Front End Developer. I am passionate about technologies and love to learn new things.
 

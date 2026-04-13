@@ -26,9 +26,6 @@ Here are a few things I've picked up along my learning journey.
  <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" >
  
 ## 📫 Get in touch
-[![Telegram](https://img.shields.io/badge/Telegram-404D59?style=for-the-badge&logo=telegram)](https://t.me/chokkarak)
+[![Telegram](https://img.shields.io/badge/Telegram-404D59?style=for-the-badge&logo=telegram)](https://t.me/khalimov_r)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rasuljon-khalimov-3049012a2/)
-
-
- or give some ♥ on [mail](mailto:rasuljonhalimov47@gmail.com) .
 
